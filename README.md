@@ -13,3 +13,4 @@ These files show a radar chart that shows the distribution of subtopic ratings f
 respectively.
 
 Note: Running the docker container will not show the visualization in browser. Refer to the presentation for verifying the results.
+Download the model related files from the shared folder on google drive
