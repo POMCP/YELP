@@ -13,4 +13,4 @@ These files show a radar chart that shows the distribution of subtopic ratings f
 respectively. In case of an event in which the files do not open in browser, kindly open the respective svg files manually in browser, preferably google chrome or mozilla firefox.
 
 Note: Running the docker container will not show the visualization in browser. Refer to the presentation for verifying the results.
-Download the model related files from the shared folder on google drive to the same folder from where the code is run.
+In case of local execution of code form a python interpretor, download the model related files from the shared folder on google drive to the same folder from where the code is run.
