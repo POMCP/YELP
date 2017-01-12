@@ -15,3 +15,8 @@ respectively. In case of an event in which the files do not open in browser, kin
 
 Note: Running the docker container will not show the visualization in browser. Refer to the presentation for verifying the results.
 In case of local execution of code form a python interpretor, download the model related files from the shared folder on google drive to the same folder from where the code is run.
+
+#ModelGeneration.py
+This file 
+#RestaurantRecommendation.py
+This file contains the code that will output the distibution of user preference to sub topics
