@@ -10,7 +10,7 @@ This will produce several lines of output.
 
 Running the code locally will also open two files Restaurant_Rating_star.svg and User_Preference.svg n the browser.
 These files show a radar chart that shows the distribution of subtopic ratings for restaurants and preference distribution for users
-respectively.
+respectively. In case of an event in which the files do not open in browser, kindly open the respective svg files manually in browser, preferably google chrome or mozilla firefox.
 
 Note: Running the docker container will not show the visualization in browser. Refer to the presentation for verifying the results.
 Download the model related files from the shared folder on google drive to the same folder from where the code is run.
