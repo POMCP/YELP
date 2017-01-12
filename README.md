@@ -1,4 +1,4 @@
-# YELP
+# YELP Insights
 YELP Dataset insights
 
 This project works on the YELP academic dataset to predict latent subtopic ratings for businesses, specifically, Restaurants.
@@ -6,7 +6,7 @@ The algorithm is based on the work in paper-
 Huang, James, Stephanie Rogers, and Eunkwang Joo. "Improving restaurants by extracting subtopics from yelp reviews." iConference 2014 (Social Media Expo) (2014).
 Along with has been included further insights towards generating a smart and more efficient recommendation system that recommeds restaurants to users based on their review comments posted on YELP for respective business.
 
-#Run the code as a docker container - 
+#Run the code as a docker container 
 Open a docker console locally and type in the command- 
 
 docker run sanketshinde/yelp-prediction
@@ -34,4 +34,4 @@ This file contains code that computes and prints out the subtopic ratings for Re
 This file contains the code that computes and prints out the distibution of user preference to sub topics.
 
 #Executable.py
-This is the file that should be run to the generated insights.
+This is the file that should be run to view the generated insights.
