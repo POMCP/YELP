@@ -6,7 +6,7 @@ The algorithm is based on the work in paper-
 Huang, James, Stephanie Rogers, and Eunkwang Joo. "Improving restaurants by extracting subtopics from yelp reviews." iConference 2014 (Social Media Expo) (2014).
 Along with has been included further insights towards generating a smart and more efficient recommendation system that recommeds restaurants to users based on their review comments posted on YELP for respective business.
 
-#Run the code as a docker container 
+# Run the code as a docker container 
 Open a docker console locally and type in the command- 
 
 docker run sanketshinde/yelp-prediction
@@ -21,17 +21,17 @@ respectively. In case of an event in which the files do not open in browser, kin
 Note: Running the docker container will not show the visualization in browser. Refer to the presentation for verifying the results.
 In case of local execution of code form a python interpretor, download the model related files from the shared folder on google drive to the same folder from where the code is run.
 
-#ModelGeneration.py
+# ModelGeneration.py
 This file trains and generates the LDA model.
 
-#DataGeneration.py
+# DataGeneration.py
 This file loads the necessary data from the json files.
 
-#RatingPrediction.py
+# RatingPrediction.py
 This file contains code that computes and prints out the subtopic ratings for Restaurants buy business ID.
 
-#RestaurantRecommendation.py
+# RestaurantRecommendation.py
 This file contains the code that computes and prints out the distibution of user preference to sub topics.
 
-#Executable.py
+# Executable.py
 This is the file that should be run to view the generated insights.
